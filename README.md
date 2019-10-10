@@ -4,3 +4,6 @@ Just another repository
 ___________________________________________________________-
 Hi,humans!
 Here Cecelia!I'm a student in China.Hope to improve myself!
+
+
+I'm learning github and trying to finish "Hello world".
